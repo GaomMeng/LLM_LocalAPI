@@ -62,7 +62,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/GaomMeng/LLM_LocalAPI.git
-    cd llama3.1-fastapi
+    cd LLM_LocalAPI
     ```
 
 2. **Install Dependencies**:
